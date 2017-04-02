@@ -1,0 +1,6 @@
+class Wish
+  def self.congratulate_mat
+    puts 'Happy Birthday Mat!'
+  end
+end
+Wish.congratulate_mat
